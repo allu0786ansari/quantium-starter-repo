@@ -99,7 +99,6 @@ Once running, open your browser and navigate to:
 
 ## 📷 Screenshot
 
-> Example screenshot of the application
 
 ![Sales Visualizer Screenshot](screenshots/sales_visualizer.png)
 
