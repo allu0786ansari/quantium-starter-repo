@@ -74,3 +74,42 @@ Once running, open your browser and navigate to:
 
 
 
+---
+
+## 🛠 Technologies Used
+
+- **Python 3.10+**
+- **Dash** – Interactive Python web framework
+- **Plotly** – Beautiful interactive plots
+- **Pandas** – Data manipulation and transformation
+- **HTML & CSS** – Basic styling for layout and readability
+
+---
+
+## 🧠 Learnings
+
+- Cleaned and transformed real-world sales data using pandas
+- Merged multiple CSVs with consistent formatting
+- Created line charts with custom annotations using Plotly
+- Built an interactive web dashboard with Dash and callbacks
+- Implemented filtering with Dash components (radio buttons)
+- Styled the UI to be clean, minimal, and user-friendly
+
+---
+
+## 📷 Screenshot
+
+> Example screenshot of the application
+
+![Sales Visualizer Screenshot](screenshots/sales_visualizer.png)
+
+*Be sure to save your screenshot as* `sales_visualizer.png` *inside a* `/screenshots` *folder in your repo.*
+
+---
+
+## 🙌 Acknowledgements
+
+- **Quantium** – for providing the business problem and dataset  
+- **Forage** – for offering the Software Engineering Job Simulation  
+- **Plotly & Dash Teams** – for making data visualization intuitive and interactive  
+
