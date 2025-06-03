@@ -103,9 +103,7 @@ Once running, open your browser and navigate to:
 
 ![Sales Visualizer Screenshot](screenshots/sales_visualizer.png)
 
-*Be sure to save your screenshot as* `sales_visualizer.png` *inside a* `/screenshots` *folder in your repo.*
 
----
 
 ## 🙌 Acknowledgements
 
