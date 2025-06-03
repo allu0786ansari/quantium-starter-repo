@@ -70,10 +70,6 @@ pip install dash pandas plotly
 python app.py
 \```
 
-Once running, open your browser and navigate to:
-
-
-
 ---
 
 ## 🛠 Technologies Used
