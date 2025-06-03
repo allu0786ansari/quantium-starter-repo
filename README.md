@@ -54,12 +54,23 @@ quantium-starter-repo/
 
 ---
 
-## 🚀 Running the App
+## 🚀 How to Run
 
-### Prerequisites
+### 1. Install Dependencies
 
-Install required Python libraries:
+Make sure your Python environment is active, then install required packages:
 
-```bash
+\```bash
 pip install dash pandas plotly
+\```
+
+### 2. Run the App
+
+\```bash
+python app.py
+\```
+
+Once running, open your browser and navigate to:
+
+
 
