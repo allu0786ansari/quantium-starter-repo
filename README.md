@@ -45,4 +45,7 @@ This project involved the following tasks:
 ---
 
 ## 🗂️ Project Structure
-
+quantium-starter-repo/
+├── app.py # Dash application
+├── Formated_Output.csv # Cleaned and combined dataset
+└── README.md # Project documentation
