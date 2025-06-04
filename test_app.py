@@ -5,7 +5,7 @@ from dash.testing.application_runners import import_app
 def dash_app(dash_duo):
     # Import your app from app_task4.py
     app = import_app('app_task4')  # don't include .py
-    dash_duo.start_server(app.app)
+    dash_duo.start_server(app)
     return dash_duo
 
 
