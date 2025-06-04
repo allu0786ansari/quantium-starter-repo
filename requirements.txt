@@ -1,2 +1,5 @@
 dash
 pandas
+pytest
+dash[testing]
+multiprocess
