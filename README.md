@@ -96,7 +96,6 @@ python app.py
 ## 📷 Screenshot
 
 
-![Sales Visualizer Screenshot](screenshots/sales_visualizer.png)
 
 
 
