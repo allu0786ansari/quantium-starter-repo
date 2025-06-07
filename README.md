@@ -79,6 +79,7 @@ python app.py
 - **Plotly** – Beautiful interactive plots
 - **Pandas** – Data manipulation and transformation
 - **HTML & CSS** – Basic styling for layout and readability
+- **unit testing using pytest and selenium** - Basic implementation for testing the application 
 
 ---
 
